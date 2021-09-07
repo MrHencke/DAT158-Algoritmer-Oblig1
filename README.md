@@ -18,7 +18,7 @@
 
 ## About
 
-Describe your project
+Files from the first obligatory assignment in the Algorithms part of DAT158 (Autumn 2021).
 
 ## License
 
