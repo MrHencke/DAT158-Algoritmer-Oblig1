@@ -20,8 +20,10 @@
 
 Files from the first obligatory assignment in the Algorithms part of DAT158 (Autumn 2021).
 
+<!--
 ## License
 
 This project is unlicensed. If you ever take this subject and get stuck, i hope this helps.
+-->
 
 Made by <a href="https://github.com/MrHencke" target="_blank">Henrik</a>
